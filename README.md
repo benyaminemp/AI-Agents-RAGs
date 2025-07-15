@@ -1,4 +1,5 @@
 # AI-Agents-RAGs
+An AI agent is a software system that can perceive its environment, reason about it, and take actions to achieve specific goals — often autonomously. Modern AI agents use large language models (LLMs) to understand natural language, interact with tools or APIs, and perform tasks like data analysis, customer support, and decision-making. Here, there is a tutorial for AWS Bedrock that can help to implement a cloud-based AI agent to make a business assistant.
 
 ### 🧠 Cloud-Based AI Agent Tutorial (AWS + LangChain)
 
