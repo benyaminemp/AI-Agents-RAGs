@@ -1,12 +1,8 @@
 # AI-Agents-RAGs
 
-Got it! Here's a clear and professional way to mention the AWS-based cloud AI agent tutorial in your repository's `README.md`:
-
----
-
 ### 🧠 Cloud-Based AI Agent Tutorial (AWS + LangChain)
 
-This repository includes a step-by-step implementation of a cloud-based AI agent using **AWS Bedrock**, **LangChain**, and **SageMaker Studio Lab**, inspired by the tutorial:
+This repository includes a step-by-step implementation of a cloud-based AI agent using **AWS Bedrock**, inspired by the tutorial:
 
 📺 **YouTube Tutorial:** [Build a Cloud-Based AI Agent with AWS Bedrock and LangChain](https://www.youtube.com/watch?v=Kqk42ZYMgmk) by *Josh Werner*
 
